@@ -1,9 +1,9 @@
 # ML1
-## README: Practicing Machine Learning Basics
+## README: Machine Learning Basics
 
 ### Introduction
 
-Welcome to the basics of Machine Learning! This guide is designed to help you get hands-on practice with foundational concepts in ML. Whether you're new to the field or looking to solidify your understanding, the exercises outlined here will provide a comprehensive introduction to key topics.
+This guide is designed to help you get hands-on practice with foundational concepts in ML. Whether you're new to the field or looking to solidify your understanding, the exercises outlined here will provide a comprehensive introduction to key topics.
 
 ### Exercises
 
